@@ -51,6 +51,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DatabaseInitializer.cs" />
     <Compile Include="UserRepository.cs" />
     <Compile Include="EntityModel\EntityDataModel.Context.cs">
       <AutoGen>True</AutoGen>
